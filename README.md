@@ -1,2 +1,34 @@
-# walmart-data-exploration
-This repository contains a complete end-to-end analysis of Walmart sales data. It includes data cleaning and preprocessing using Python (Pandas), PostgreSQL integration for structured querying, and in-depth SQL analysis to uncover key business insights such as sales trends, customer behavior, and profitability.
+# 📊 Walmart Sales Data Analysis
+
+![Walmart Sales](assets/walmart_sales_banner.png)
+
+This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data. We utilize **Python (Pandas)** for data processing, **SQL (PostgreSQL/MySQL)** for advanced querying, and structured problem-solving techniques to derive key business insights. 
+
+---
+
+## 🚀 Project Workflow
+
+### **1️⃣ Data Collection & Cleaning**
+- Download the Walmart sales dataset using the **Kaggle API**.
+- Clean and preprocess the data using **Pandas**:
+  - Handle missing values, duplicates, and formatting inconsistencies.
+  - Ensure proper data types for numerical and categorical fields.
+
+### **2️⃣ Loading Data into SQL**
+- Convert the cleaned dataset into a structured format.
+- Load the data into **PostgreSQL & MySQL** using **SQLAlchemy**.
+
+### **3️⃣ SQL Analysis & Business Insights**
+- Write **complex SQL queries** to answer key business questions:
+  - Identify **peak sales hours** and **best-selling products**.
+  - Analyze **revenue trends** across branches.
+  - Determine **customer purchasing patterns** based on time, city, and payment methods.
+
+### **4️⃣ Documentation & Project Deployment**
+- Maintain **clear documentation** for queries, insights, and future improvements.
+- Publish the project on **GitHub** with a well-structured repository.
+
+---
+
+## 📂 Project Structure
+
