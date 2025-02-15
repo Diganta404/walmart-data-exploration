@@ -88,6 +88,8 @@ The Walmart sales dataset schema:
 ```bash
 git clone <repo-url>
 
+```
+
 
 ## Contributing
 Contributions are welcome! If you have any queries or want to add new analyses, feel free to open a pull request.
