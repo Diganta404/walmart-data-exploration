@@ -1,6 +1,6 @@
 # 📊 Walmart Sales Data Analysis
 
-![Walmart Sales](assets/walmart_sales_banner.png)
+![Project Banner](https://github.com/Diganta404/walmart-data-exploration/blob/main/home.png)
 
 This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data. We utilize **Python (Pandas)** for data processing, **SQL (PostgreSQL/MySQL)** for advanced querying, and structured problem-solving techniques to derive key business insights. 
 
