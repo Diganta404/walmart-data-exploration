@@ -32,3 +32,33 @@ This project is an **end-to-end data analysis solution** designed to extract cri
 
 ## 📂 Project Structure
 
+|-- assets/ # Images and visual assets |-- data/ # Raw & cleaned data |-- sql_queries/ # SQL scripts for analysis |-- notebooks/ # Jupyter Notebooks for analysis |-- README.md # Project documentation |-- requirements.txt # Python dependencies |-- main.py # Python script for data processing
+
+
+
+
+---
+
+## 📊 Results & Insights
+
+- **📅 Peak Sales Days:** Identify the busiest days for each branch.
+- **💰 Revenue Trends:** Determine which branches and product categories generate the most sales.
+- **🛒 Customer Behavior:** Analyze purchasing patterns based on time, payment methods, and quantity.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** → `Pandas`, `NumPy`, `SQLAlchemy`
+- **Databases** → `PostgreSQL`, `MySQL`
+- **Jupyter Notebook** → Data exploration & visualization
+- **Kaggle API** → Automated dataset retrieval
+- **VS Code** → Development environment
+
+---
+
+## 🔧 Getting Started
+
+1️⃣ **Clone the repository**  
+```bash
+git clone <repo-url>
