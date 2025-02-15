@@ -87,3 +87,12 @@ The Walmart sales dataset schema:
 1️⃣ **Clone the repository**  
 ```bash
 git clone <repo-url>
+
+
+## Contributing
+Contributions are welcome! If you have any queries or want to add new analyses, feel free to open a pull request.
+
+## Contact
+- **Name**: Diganta Mitra
+- **Email**: dgntmitra@gmail.com
+- **LinkedIn**: [Diganta Mitra](https://www.linkedin.com/in/diganta-mitra-77b634264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
