@@ -32,6 +32,38 @@ This project is an **end-to-end data analysis solution** designed to extract cri
 
 ---
 
+## 🏬 Database Schema
+
+The Walmart sales dataset schema:
+
+| Column Name     | Data Type    | Description                                      |
+|----------------|-------------|--------------------------------------------------|
+| `invoice_id`   | VARCHAR(20)  | Unique identifier for each transaction.         |
+| `branch`       | VARCHAR(5)   | Store branch code (e.g., A, B, C).              |
+| `city`         | VARCHAR(50)  | City where the branch is located.               |
+| `customer_type`| VARCHAR(20)  | Type of customer (Member / Normal).             |
+| `gender`       | VARCHAR(10)  | Gender of the customer.                         |
+| `product_line` | VARCHAR(100) | Category of product purchased.                  |
+| `unit_price`   | DECIMAL(10,2)| Price per unit of the product.                  |
+| `quantity`     | INT          | Number of units purchased.                      |
+| `tax`          | DECIMAL(10,2)| VAT applied to the total amount.                |
+| `total`        | DECIMAL(10,2)| Final amount including VAT.                     |
+| `date`         | DATE         | Date of the transaction.                        |
+| `time`         | TIME         | Time of the transaction.                        |
+| `payment`      | VARCHAR(20)  | Payment method used (Cash, Credit Card, E-Wallet). |
+| `cogs`         | DECIMAL(10,2)| Cost of goods sold.                             |
+| `gross_margin_percentage` | DECIMAL(10,2) | Gross margin as a percentage. |
+| `gross_income` | DECIMAL(10,2)| Total gross income for the sale.                |
+| `rating`       | DECIMAL(2,1) | Customer rating of the transaction.             |
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Diganta404/walmart-data-exploration.git
+   cd walmart-data-exploration
+
+
 ## 📊 Results & Insights
 
 - **📅 Peak Sales Days:** Identify the busiest days for each branch.
