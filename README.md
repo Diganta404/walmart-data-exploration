@@ -30,13 +30,6 @@ This project is an **end-to-end data analysis solution** designed to extract cri
 
 ---
 
-## 📂 Project Structure
-
-|-- assets/ # Images and visual assets |-- data/ # Raw & cleaned data |-- sql_queries/ # SQL scripts for analysis |-- notebooks/ # Jupyter Notebooks for analysis |-- README.md # Project documentation |-- requirements.txt # Python dependencies |-- main.py # Python script for data processing
-
-
-
-
 ---
 
 ## 📊 Results & Insights
